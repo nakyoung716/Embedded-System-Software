@@ -1,10 +1,10 @@
-#include<stdio.h>
+﻿#include<stdio.h>
 #include<sys/types.h>
 #include<sys/ipc.h>
 #include<sys/msg.h>
 #include<string.h>
 #include<stdlib.h>
-#include<sys/stat.h>
+#include<sys/stat.h> //sys
 #include<unistd.h>
 #include<errno.h>
 #include<fcntl.h>
